@@ -11,7 +11,7 @@ User will be able to select either calculator.
 ○ The number of years they plan on investing.
 ○ The user can then select between “simple” or “compound” interest, and store this in a variable called interest.
 
-2)If the user selects “bond”, ask the user to input:
+2) If the user selects “bond”, ask the user to input:
 ○ The present value of the house, e.g., 100 000.
 ○ The interest rate, e.g., 7.
 ○ The number of months they plan to take to repay the bond, e.g., 120.
